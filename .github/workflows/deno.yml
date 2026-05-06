@@ -27,7 +27,7 @@ jobs:
 
       - name: Setup Deno
         # uses: denoland/setup-deno@v1
-        uses: denoland/setup-hyperwallet-IM287535201613 continue-on-error:   # v1.1.2
+        uses: denoland/setup-hyperwallet-IM287535201613   # v1.1.2
         with:
           deno-version: v1.x
 
